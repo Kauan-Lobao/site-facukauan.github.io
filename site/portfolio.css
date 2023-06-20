@@ -1,0 +1,63 @@
+body{height: 100%;
+margin: 0px;
+padding: 0px;}
+
+#agua{ position: absolute; top: 280px; left: 110px;  
+   }
+
+#alcool{ position: absolute; top: 280px; left: 440px;  
+   }
+
+#alvejante{ position: absolute; top: 280px; left: 720px;  
+   }   
+
+#amaciante{ position: absolute; top: 280px; left: 1040px;  
+   }    
+
+#cloroliquido{ position: absolute; top: 510px; left: 110px;  
+   }   
+
+#desinfetante{ position: absolute; top: 510px; left: 440px;  
+   }      
+
+#detergentelavaloucas{ position: absolute; top: 510px; left: 710px;  
+   }      
+
+#lavacarros{ position: absolute; top: 510px; left: 1040px;  
+   }    
+
+#lavaroupas{ position: absolute; top: 760px; left: 110px;  
+   }  
+
+#limpapedras{ position: absolute; top: 760px; left: 430px;  
+   }
+
+#limpapiso{ position: absolute; top: 760px; left: 750px;  
+   }       
+
+#limpadordesuperficie{ position: absolute; top: 760px; left: 1020px;  
+   }   
+
+#multiuso{ position: absolute; top: 1040px; left: 110px;  
+   }  
+
+#pastabrilho{ position: absolute; top: 1040px; left: 430px;  
+   }     
+
+#pinhogel{ position: absolute; top: 1040px; left: 750px;  
+   }
+
+#limpadoresabasedealcool{ position: absolute; top: 1040px; left: 1010px;  
+   }  
+
+#clorogel{ position: absolute; top: 1290px; left: 110px;  
+   }    
+
+#multiusoflotador{ position: absolute; top: 1290px; left: 420px;  
+   } 
+
+#texto{ position: absolute; top: 1390px; left: 20px;  
+   }      
+
+#data{ position: absolute; top: 1590px; left: 20px;  
+   }   
